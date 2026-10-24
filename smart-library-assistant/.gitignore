@@ -22,3 +22,11 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+node_modules/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+backend/chroma_db/
