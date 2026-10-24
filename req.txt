@@ -1,0 +1,12 @@
+chromadb
+sentence-transformers
+langchain
+langchain-ollama
+langchain-text-splitters
+langgraph
+pypdf
+pydantic
+fastapi
+uvicorn
+langchain-community
+langchain-core
